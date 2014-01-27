@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGlTextureMapping", "OpenGlTextureMapping.vcxproj", "{9931C168-7917-4B8D-B85F-2A70F3901133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9931C168-7917-4B8D-B85F-2A70F3901133}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9931C168-7917-4B8D-B85F-2A70F3901133}.Debug|Win32.Build.0 = Debug|Win32
+		{9931C168-7917-4B8D-B85F-2A70F3901133}.Release|Win32.ActiveCfg = Release|Win32
+		{9931C168-7917-4B8D-B85F-2A70F3901133}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
